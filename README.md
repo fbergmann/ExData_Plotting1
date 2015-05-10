@@ -1,3 +1,8 @@
+## Solutions
+The solutions can be found in the [project](project) subfolder. The rest of this page comes from the fork. 
+
+-- *5/9/2015 10:04:18 AM Frank Bergmann*
+
 ## Introduction
 
 This assignment uses data from
